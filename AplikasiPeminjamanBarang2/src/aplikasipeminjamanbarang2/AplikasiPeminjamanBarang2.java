@@ -6,7 +6,7 @@
 package aplikasipeminjamanbarang2;
 
 /**
- *
+ *    
  * @author Sakinah R
  */
 public class AplikasiPeminjamanBarang2 {
